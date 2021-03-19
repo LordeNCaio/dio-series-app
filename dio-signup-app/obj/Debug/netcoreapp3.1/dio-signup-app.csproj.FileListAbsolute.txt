@@ -1,0 +1,13 @@
+C:\Users\Caio\Desktop\DIO\C#\signupapp\dio-signup-app\bin\Debug\netcoreapp3.1\dio-signup-app.exe
+C:\Users\Caio\Desktop\DIO\C#\signupapp\dio-signup-app\bin\Debug\netcoreapp3.1\dio-signup-app.deps.json
+C:\Users\Caio\Desktop\DIO\C#\signupapp\dio-signup-app\bin\Debug\netcoreapp3.1\dio-signup-app.runtimeconfig.json
+C:\Users\Caio\Desktop\DIO\C#\signupapp\dio-signup-app\bin\Debug\netcoreapp3.1\dio-signup-app.runtimeconfig.dev.json
+C:\Users\Caio\Desktop\DIO\C#\signupapp\dio-signup-app\bin\Debug\netcoreapp3.1\dio-signup-app.dll
+C:\Users\Caio\Desktop\DIO\C#\signupapp\dio-signup-app\bin\Debug\netcoreapp3.1\dio-signup-app.pdb
+C:\Users\Caio\Desktop\DIO\C#\signupapp\dio-signup-app\obj\Debug\netcoreapp3.1\dio-signup-app.csprojAssemblyReference.cache
+C:\Users\Caio\Desktop\DIO\C#\signupapp\dio-signup-app\obj\Debug\netcoreapp3.1\dio-signup-app.AssemblyInfoInputs.cache
+C:\Users\Caio\Desktop\DIO\C#\signupapp\dio-signup-app\obj\Debug\netcoreapp3.1\dio-signup-app.AssemblyInfo.cs
+C:\Users\Caio\Desktop\DIO\C#\signupapp\dio-signup-app\obj\Debug\netcoreapp3.1\dio-signup-app.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Desktop\DIO\C#\signupapp\dio-signup-app\obj\Debug\netcoreapp3.1\dio-signup-app.dll
+C:\Users\Caio\Desktop\DIO\C#\signupapp\dio-signup-app\obj\Debug\netcoreapp3.1\dio-signup-app.pdb
+C:\Users\Caio\Desktop\DIO\C#\signupapp\dio-signup-app\obj\Debug\netcoreapp3.1\dio-signup-app.genruntimeconfig.cache
